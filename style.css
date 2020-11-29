@@ -1,0 +1,18 @@
+body{
+  background-color: red;
+}
+#drum-machine{
+  margin-top: 200px;
+  color: white;
+  background-size: contain;
+  text-align: center;
+}
+
+
+button{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  border: none;
+  margin: 5px;
+}
